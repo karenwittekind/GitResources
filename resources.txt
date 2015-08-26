@@ -1,0 +1,1 @@
+Official Git documentation: http://git-scm.com/doc
