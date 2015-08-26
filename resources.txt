@@ -1,1 +1,2 @@
 Official Git documentation: http://git-scm.com/doc
+Super cool git tutorial: https://www.atlassian.com/git/
